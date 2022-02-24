@@ -15,4 +15,4 @@ DRAW FRACTALS
    $ ./mandelbrot julia
    ```
  
- <img src="./imgs/fractol1" width="500" alt="game">
+ <img src="./imgs/fractol1.png" width="500" alt="game">
